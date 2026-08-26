@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**VoiceShield AI** is an end-to-end, ultra-low-latency security framework built to detect, alert, and block synthetic voice audio and deepfake impersonation attacks in real time. Designed specifically for VoIP networks, telephony gateways, and mobile applications, VoiceShield AI combines deep acoustic analysis, neural biomarker detection, and blockchain-based audit logging to secure voice communications.
+**V.A.L.I.D** is an end-to-end, ultra-low-latency security framework built to detect, alert, and block synthetic voice audio and deepfake impersonation attacks in real time. Designed specifically for VoIP networks, telephony gateways, and mobile applications, VoiceShield AI combines deep acoustic analysis, neural biomarker detection, and blockchain-based audit logging to secure voice communications.
 
 ---
 
